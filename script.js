@@ -29,14 +29,14 @@ const products = [
     {
         id: 4,
         name: "Cà phê Moka",
-        price: 55000,
+        price: 155000,
         image: "img/produce/cfmoka.jpg",
         desc: "Cà phê ủ lạnh mượt mà, ít acid."
     },
     {
         id: 5,
         name: "Cà phê Culi",
-        price: 35000,
+        price: 135000,
         image: "img/produce/cfculi.webp",
         desc: "Đặc sản đường phố Việt Nam."
     },
